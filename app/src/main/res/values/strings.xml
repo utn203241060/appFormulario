@@ -2,7 +2,7 @@
  <string
      name="app_name">Formulario</string>
     <string
-        name="saludar">Saludar</string>
+        name="sumar">Sumar</string>
     <string
-        name="nombre">Nombre</string>
+        name="resultado">Resultado</string>
 </resources>
